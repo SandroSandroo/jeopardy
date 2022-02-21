@@ -7,8 +7,9 @@
 <h3>Using:</h3> 
 
 <ul>
-  <li>jQuery and AJAX<li>
-  <li>jService API<li>
+  <li>jQuery and AJAX</li>
+  
+  <li>jService API</li>
 </ul>  
 
 <h3> API provides categories and clues from the televised Jeopardy show.</h3>
